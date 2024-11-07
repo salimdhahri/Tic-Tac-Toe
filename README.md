@@ -62,7 +62,7 @@ This project implements a Tic Tac Toe game using Python and Tkinter for graphica
 ## How to Run
 1. Clone or download the repository.
 2. Ensure Python is installed.
-3. Run the game by executing: ```python tic_tac_toe.py```
+3. Run the game by executing: ```python main.py```
 4. Follow the on-screen instructions to play.
 
 ## Conclusion
